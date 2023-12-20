@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganessshhh
+- 👋 Hi, I’m Ganesh
 - 👀 I’m interested in web development and animation
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on projects on web development or animation
